@@ -1,8 +1,8 @@
 ###############################################################################################
 # 'GETTING AND CLEANING DATA' COURSE PROJECT
-# PART OF THE DATA SCIENCE SPECIALIZATION FROM JOHNS HOPKINS UNIVERSITY VIA COURSERA
+## PART OF THE DATA SCIENCE SPECIALIZATION FROM JOHNS HOPKINS UNIVERSITY VIA COURSERA
 ###############################################################################################
-# AUTHOR: BRUNO LAGET MERINO
+## AUTHOR: BRUNO LAGET MERINO
 ###############################################################################################
 
 The main codebooks employed were the activity labels, and the features measured.
