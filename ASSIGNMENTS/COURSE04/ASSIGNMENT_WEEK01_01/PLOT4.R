@@ -50,7 +50,7 @@ par(mfrow=c(2,2))
 plot(GAP_Hist_4[, dateTime], GAP_Hist_4[, Global_active_power], 
      type="l", xlab="", ylab="Global Active Power")
 # Plot 2
-plot(GAP_Hist_4[, dateTime],GAP_Hist[, Voltage],
+plot(GAP_Hist_4[, dateTime],GAP_Hist_4[, Voltage],
      type="l", xlab="datetime", ylab="Voltage")
 # Plot 3
 plot(GAP_Hist_4[, dateTime], GAP_Hist_4[, Sub_metering_1], 
